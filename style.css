@@ -305,6 +305,9 @@ body {
     width: 100%;
 }
 @media screen and (max-width: 500px) {
+    body {
+        text-align: center;
+    }
     .main {
         margin: 0;
         flex-direction: column;
